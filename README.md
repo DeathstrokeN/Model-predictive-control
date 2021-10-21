@@ -24,7 +24,7 @@ hierarchical structure, are the flow rate set points dfsp and dcsp. To achieve t
 must use the Matlab MPC toolbox. The Simulink file simSoufflerie.slx simulates the 
 blower and the three PI loops.
 
-The process is described by a matrix of transfer functions.
+The process is identified as a matrix of transfer functions.
 
 
 
